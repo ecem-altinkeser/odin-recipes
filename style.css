@@ -5,11 +5,16 @@ body {
 h1 {
     color: red;
     font-size: 40px;
+    margin: 20px;
+    background-color: azure;
+    padding: 20px;
 }
 
 li {
     font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
     color: aqua;
+    margin: 10px;
     
 }
 
